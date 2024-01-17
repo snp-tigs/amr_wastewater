@@ -1,0 +1,99 @@
+Pathogens,Drug Class,RPM
+Acinetobacter baumannii,aminoglycoside antibiotic,48.62627444
+Acinetobacter baumannii,carbapenem; cephalosporin; penam,141.2160299
+Acinetobacter baumannii,glycopeptide antibiotic,5.328906788
+Acinetobacter baumannii,macrolide antibiotic; streptogramin antibiotic,9753.231649
+Pseudomonas aeruginosa,A,2077.607534
+Pseudomonas aeruginosa,B,227.1446518
+Pseudomonas aeruginosa,C,129.2259896
+Pseudomonas aeruginosa,D,1757.873127
+Pseudomonas aeruginosa,E,342.3822611
+Pseudomonas aeruginosa,M,1775.192074
+Pseudomonas aeruginosa,N,2930.23262
+Pseudomonas aeruginosa,O,2645.80222
+Pseudomonas aeruginosa,aminoglycoside antibiotic,10096.28002
+Pseudomonas aeruginosa,carbapenem; cephalosporin,1189.012327
+Pseudomonas aeruginosa,carbapenem; cephalosporin; penam,2671.780641
+Pseudomonas aeruginosa,cephalosporin,17.98506041
+Pseudomonas aeruginosa,cephalosporin; penam,1613.992643
+Pseudomonas aeruginosa,diaminopyrimidine antibiotic,255.7875258
+Pseudomonas aeruginosa,disinfecting agents and antiseptics,4105.92268
+Pseudomonas aeruginosa,fluoroquinolone antibiotic,15433.18017
+Pseudomonas aeruginosa,fluoroquinolone antibiotic; aminoglycoside antibiotic; disinfecting agents and antiseptics,69.94190159
+Pseudomonas aeruginosa,macrolide antibiotic; peptide antibiotic,82.59805522
+Pseudomonas aeruginosa,monobactam; cephalosporin,5524.744113
+Pseudomonas aeruginosa,peptide antibiotic,49.29238779
+Pseudomonas aeruginosa,rifamycin antibiotic,646.7960614
+Escherichia coli,F,36.63623417
+Escherichia coli,G,390.3424222
+Escherichia coli,H,29.97510068
+Escherichia coli,I,33.97178077
+Escherichia coli,J,39.30068756
+Escherichia coli,NO DATA,9.991700228
+Escherichia coli,P,72.60635499
+Escherichia coli,Q,104.5797957
+Escherichia coli,R,14.65449367
+Escherichia coli,aminocoumarin antibiotic,975.8560556
+Escherichia coli,aminoglycoside antibiotic,17157.74763
+Escherichia coli,aminoglycoside antibiotic; aminocoumarin antibiotic,317.0699539
+Escherichia coli,carbapenem; cephalosporin; penam,1635.974384
+Escherichia coli,cephamycin,394.3391023
+Escherichia coli,diaminopyrimidine antibiotic,174.5216973
+Escherichia coli,disinfecting agents and antiseptics,67.2774482
+Escherichia coli,disinfecting agents and antiseptics; isoniazid-like antibiotic,23.98008055
+Escherichia coli,elfamycin antibiotic,12983.21528
+Escherichia coli,fluoroquinolone antibiotic,373.0234752
+Escherichia coli,fluoroquinolone antibiotic; aminoglycoside antibiotic,31.97344073
+Escherichia coli,fluoroquinolone antibiotic; cephalosporin; cephamycin; penam,143.8804833
+Escherichia coli,fluoroquinolone antibiotic; tetracycline antibiotic,126.5615362
+Escherichia coli,lincosamide antibiotic,92599.08103
+Escherichia coli,macrolide antibiotic,12814.6886
+Escherichia coli,macrolide antibiotic; fluoroquinolone antibiotic; penam,520.9006385
+Escherichia coli,macrolide antibiotic; fluoroquinolone antibiotic; penam; tetracycline antibiotic,87.926962
+Escherichia coli,monobactam; carbapenem; cephalosporin; cephamycin; penam; penem,50.62461449
+Escherichia coli,nitrofuran antibiotic,39.30068756
+Escherichia coli,nitroimidazole antibiotic,52.62295453
+Escherichia coli,nucleoside antibiotic; disinfecting agents and antiseptics,181.1828308
+Escherichia coli,oxazolidinone antibiotic,108.5764758
+Escherichia coli,peptide antibiotic,229.1429919
+Escherichia coli,phenicol antibiotic,203.1645713
+Escherichia coli,phosphonic acid antibiotic,619.4854141
+Escherichia coli,rifamycin antibiotic,5229.655899
+Escherichia coli,sulfonamide antibiotic,181.1828308
+Escherichia coli,tetracycline antibiotic,279.7676064
+Escherichia coli,tetracycline antibiotic; disinfecting agents and antiseptics,69.94190159
+Klebsiella pneumoniae,aminoglycoside antibiotic,185.1795109
+Klebsiella pneumoniae,carbapenem; cephalosporin; penam,96.58643553
+Klebsiella pneumoniae,carbapenem; peptide antibiotic; aminocoumarin antibiotic; rifamycin antibiotic,58.61797467
+Klebsiella pneumoniae,disinfecting agents and antiseptics,23.3139672
+Klebsiella pneumoniae,macrolide antibiotic; peptide antibiotic,51.29072784
+Klebsiella pneumoniae,monobactam; carbapenem; cephalosporin; cephamycin; penam; penem,17.31894706
+Klebsiella pneumoniae,monobactam; carbapenem; cephalosporin; penam,97.91866223
+Klebsiella pneumoniae,peptide antibiotic,37.30234752
+Klebsiella pneumoniae,phenicol antibiotic,14.65449367
+Enterobacter cloacae,phenicol antibiotic,412.9902761
+Enterococcus faecium,K,129.2259896
+Enterococcus faecium,elfamycin antibiotic,4462.293322
+Staphylococcus aureus,L,17761.91244
+Staphylococcus aureus,aminoglycoside antibiotic,1785.849887
+Helicobacter pylori,macrolide antibiotic,93674.85409
+Helicobacter pylori,tetracycline antibiotic,139260.9872
+Campylobacter jejuni,macrolide antibiotic,192667.9572
+Campylobacter jejuni,tetracycline antibiotic,1189.012327
+Campylobacter coli,aminoglycoside antibiotic,11.32392692
+Campylobacter coli,phenicol antibiotic,207.8273647
+Campylobacter fetus,aminoglycoside antibiotic,23.98008055
+Campylobacter fetus,tetracycline antibiotic,26.64453394
+Salmonella enterica,aminoglycoside antibiotic,73697.44865
+Salmonella enterica,carbapenem; cephalosporin; penam,11.32392692
+Salmonella enterica,diaminopyrimidine antibiotic,84.59639526
+Salmonella enterica,fluoroquinolone antibiotic,146.5449367
+Salmonella enterica,lincosamide antibiotic,57.28574797
+Salmonella enterica,peptide antibiotic,61.94854141
+Salmonella enterica,phenicol antibiotic,320.4005206
+Neisseria gonorrhoeae,aminoglycoside antibiotic,20735.44243
+Neisseria gonorrhoeae,macrolide antibiotic,115391.4815
+Neisseria gonorrhoeae,tetracycline antibiotic,380.350722
+Neisseria meningitidis,aminoglycoside antibiotic,97247.21998
+Streptococcus pneumoniae,macrolide antibiotic,19234.68905
+Shigella sonnei,tetracycline antibiotic,8438.323899
